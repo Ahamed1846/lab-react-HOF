@@ -1,0 +1,8 @@
+p span {
+    display: inline;
+    margin-right: 40px;
+    color: blue;
+  }
+body{
+    margin: 20px 0px 0px 20px;
+}
